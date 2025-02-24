@@ -20,7 +20,7 @@ A simple **Snakes and Ladders** game in Java for two players. Players take turns
 ## 🚀 How to Run
 1. **Clone the Repository** (if on GitHub):
    ```bash
-   git clone https://github.com/your-username/snake-ladder-game.git
+   git clone https://github.com/adityaKumar9798/snake_ladder_Game1.git
    cd snake-ladder-game
    ```
 2. **Compile the Code**:
